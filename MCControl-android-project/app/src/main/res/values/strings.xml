@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MC Control</string>
+    <!-- Address the app opens first. The user can change it later with the "Server address" button. -->
+    <string name="default_url"></string>
+</resources>
